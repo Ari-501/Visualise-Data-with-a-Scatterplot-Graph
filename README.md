@@ -1,6 +1,6 @@
 # Visualise-Data-with-a-Scatterplot-Graph
 
-Live link: https://arig501.github.io/Visualise-Data-with-a-Scatterplot-Graph/
+Live link: https://ari-501.github.io/Visualise-Data-with-a-Scatterplot-Graph/
 
 Objective: Build an app that is functionally similar to this: https://scatterplot-graph.freecodecamp.rocks.
 
